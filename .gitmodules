@@ -1,0 +1,3 @@
+[submodule "tf-faster-rcnn"]
+	path = tf-faster-rcnn
+	url = https://github.com/endernewton/tf-faster-rcnn
