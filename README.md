@@ -6,7 +6,7 @@
 
 This repository is an extension of Faster-RCNN aimed at providing an example of training fruit detection models using [Deep Fruit Detection in Orchards](https://arxiv.org/abs/1610.03677) and [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 
-Here below some examples:
+Here below, some examples:
 
 ![Example Mango 1](https://github.com/zined1/fruit_detection_in_orchards/raw/master/res/20151124T044856.553456_i1990j1463.jpg)
 
