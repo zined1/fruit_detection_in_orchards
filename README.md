@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository is an extension of Faster-RCNN aimed at provide an example of training fruit detection models using [Deep Fruit Detection in Orchards](https://arxiv.org/abs/1610.03677) and [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
+This repository is an extension of Faster-RCNN aimed at providing an example of training fruit detection models using [Deep Fruit Detection in Orchards](https://arxiv.org/abs/1610.03677) and [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 
 Here below some examples:
 
